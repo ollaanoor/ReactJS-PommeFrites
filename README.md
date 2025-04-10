@@ -42,7 +42,7 @@ A modern and responsive menu web app for a fast-food restaurant, built using **R
 ## 🛠️ Tech Stack
 
 - **ReactJS**
-- **CSS / TailwindCSS / DaisyUI**
+- **TailwindCSS / DaisyUI**
 
 ---
 
