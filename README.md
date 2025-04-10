@@ -1,12 +1,47 @@
-# React + Vite
+# 🍟 PommeFrites Menu Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive menu web app for a fast-food restaurant, built using **ReactJS**. This application showcases the menu, item details, and provides a visually engaging user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+### 🖥️ Desktop View
+#### Menu page
+![Desktop Screenshot](./src/assets/screenshots/menu-page.png)
+![Desktop Screenshot](./src/assets/screenshots/menu-search.png)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Cart page
+![Desktop Screenshot](./src/assets/screenshots/cart-page.png)
+
+### Admin page
+![Desktop Screenshot](./src/assets/screenshots/admin-page.png)
+![Desktop Screenshot](./src/assets/screenshots/admin-add-page.png)
+![Desktop Screenshot](./src/assets/screenshots/admin-edit-page.png)
+![Desktop Screenshot](./src/assets/screenshots/form-validation.png)
+
+### About us
+![Desktop Screenshot](./src/assets/screenshots/about-us-page.png)
+![Desktop Screenshot](./src/assets/screenshots/contact-us-page.png)
+
+## 🚀 Features
+
+- 🍟 Browse a variety of fries and combos
+- 🧾 View detailed item info including images and prices
+- 💬 Cart 
+- 🔎 Search and filter menu 
+- 📱 Mobile-friendly and fully responsive design
+- 🎨 Clean UI with reusable components
+
+---
+
+## 🛠️ Tech Stack
+
+- **ReactJS**
+- **CSS / TailwindCSS / DaisyUI**
+
+---
+
+
+
+
