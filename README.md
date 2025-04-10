@@ -5,7 +5,6 @@ A modern and responsive menu web app for a fast-food restaurant, built using **R
 ---
 
 ## 📸 Preview
-### 🖥️ Desktop View
 ### Menu page
 ![Desktop Screenshot](./src/assets/screenshots/menu-page.png)
 
